@@ -1,5 +1,9 @@
 ## Hi I am Nimesh 👋
-### Studying | Developing | Contributing
+### 📚 Learning . 💻 Building . 🚀 Growing
+Learning programming, Exploring technology, and slowly building projects. University is more than attending classes, it's about building real world skills that actually matter, experimenting with new things, and preparing myself for future ✨
+
+#### Beyond coding:
+- Logo, poster designing
 
 <!--
 **NimeshKK05/NimeshKK05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
