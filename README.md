@@ -1,5 +1,5 @@
 ## Hi I am Nimesh 👋
-# Studying | Developing | Contributing
+### Studying | Developing | Contributing
 
 <!--
 **NimeshKK05/NimeshKK05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
