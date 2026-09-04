@@ -2,7 +2,7 @@
 ### 📚 Learning . 💻 Building . 🚀 Growing
 Learning programming, Exploring technology, and slowly building projects. University is more than attending classes, it's about building real world skills that actually matter, experimenting with new things, and preparing myself for future ✨
 
-#### Beyond coding:
+#### Beyond coding :
 - Logo and poster designing
 - Sculpture and general pencil sketching
 - Reading novellas
